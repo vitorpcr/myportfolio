@@ -1,0 +1,25 @@
+
+.block{
+  display: flex;
+  margin: auto;
+  
+  width: 85%;
+  margin-top: 50px;
+}
+.block-1{
+  
+  width: 50%;
+}
+.block-2{
+  
+  width: 50%;
+}
+
+img{
+  width: 100%;
+}
+
+section .block{
+  padding-bottom: 50px;
+  gap: 17px;
+}
